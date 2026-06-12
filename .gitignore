@@ -1,2 +1,6 @@
-# windows folder
-desktop.ini
+
+# dependencies
+node_modules/
+
+#build
+dist/
