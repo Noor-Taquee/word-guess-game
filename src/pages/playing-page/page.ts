@@ -2,7 +2,7 @@ import "./playing-panel.css";
 
 import { createElement } from "../../utils/create-dom.js";
 import { attemptBoxFrame } from "../../core/engine.js";
-import { keyboard } from "../../components/keyboard/keyboard.js";
+import { keyboard } from "../../components/keyboard/script.js";
 
 export const playingPanel = createElement("div", {
   id: "attempt-panel",
