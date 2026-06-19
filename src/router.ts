@@ -1,8 +1,8 @@
 import { panelContainer } from "./app.js";
 
-import { homePanel } from "./pages/home-page/page.js";
+import { homePanel } from "./pages/home-page/script.js";
 
-import { playingPanel } from "./pages/playing-page/page.js";
+import { playingPanel } from "./pages/playing-page/script.js";
 
 // import { accountPanel } from "./pages/account-page/page.js";
 

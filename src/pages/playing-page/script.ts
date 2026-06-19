@@ -1,4 +1,4 @@
-import "./playing-panel.css";
+import "./style.css";
 
 import { createElement } from "../../utils/create-dom.js";
 import { attemptBoxFrame } from "../../core/engine.js";

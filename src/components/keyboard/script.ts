@@ -1,4 +1,4 @@
-import "./keyboard.css";
+import "./style.css";
 
 import { createElement } from "../../utils/create-dom.js";
 
